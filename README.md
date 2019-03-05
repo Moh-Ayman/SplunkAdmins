@@ -149,6 +149,11 @@ Some CSV lookups are now replaced with kvstore entries due to the ability to syn
 Feel free to open an issue on github or use the contact author on the SplunkBase link and I will try to get back to you when possible, thanks!
 
 ## Release Notes
+### 2.5.0
+New macro - `splunkadmins_shutdown_keyword`
+
+Updated alert - `AllSplunkEnterpriseLevel - Replication Failures` with new criteria and excluded shutdowns
+
 ### 2.4.9
 Updated alert - `SearchHeadLevel - Detect MongoDB errors` to include " W " based on git feedback
 
