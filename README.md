@@ -154,6 +154,8 @@ New macro - `splunkadmins_shutdown_keyword`
 
 Updated alert - `AllSplunkEnterpriseLevel - Replication Failures` with new criteria and excluded shutdowns
 
+Updated alert - `SearchHeadLevel - Detect MongoDB errors` with update to handle tstats issue in Splunk (issue #3 in github)
+
 ### 2.4.9
 Updated alert - `SearchHeadLevel - Detect MongoDB errors` to include " W " based on git feedback
 
