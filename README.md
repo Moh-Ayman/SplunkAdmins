@@ -154,7 +154,7 @@ New macro - `splunkadmins_shutdown_keyword`
 
 Updated alert - `AllSplunkEnterpriseLevel - Replication Failures` with new criteria and excluded shutdowns
 
-Updated alert - `AllSplunkEnterpriseLevel - Splunk Servers with resource starvation` with new criteria
+Updated alert - `AllSplunkEnterpriseLevel - Splunk Servers with resource starvation` with new comments 
 
 Updated alert - `SearchHeadLevel - Detect MongoDB errors` with update to handle tstats issue in Splunk (issue #3 in github)
 
